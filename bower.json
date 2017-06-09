@@ -1,0 +1,25 @@
+{
+  "name": "webapp",
+  "authors": [
+    "CamelCoder <zhengao_dev@outlook.com>"
+  ],
+  "description": "angularjs webapp",
+  "main": "webapp",
+  "keywords": [
+    "angularjs",
+    "webapp"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+  }
+}
